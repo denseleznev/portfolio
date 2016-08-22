@@ -1,0 +1,60 @@
+.container {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	max-width: 80%;
+	font-family: 'Lato', sans-serif;
+}
+
+.logo {
+	max-width: 100px;
+}
+
+.separator {
+	border-top: 3px solid #7d97ad
+}
+
+.title {
+	font-weight: 100;
+	margin-bottom: 0;
+}
+
+.description {
+	margin-top: 4px;
+}
+
+main {
+	margin-bottom: 10px;
+}
+
+.projects-title {
+	color: #7d97ad;
+}
+
+.img-project {
+	margin-bottom: 0;
+}
+
+.projects h3 {
+	margin-top: 10px;
+	margin-bottom: 0;
+	color: #2d3c49;
+}
+
+@media screen and (max-width: 1200px) {
+	.projects h3 {
+		min-height: 52px;
+	}
+}
+
+.projects p {
+	margin-top: 2px;
+	color: #2d3c49;
+}
+
+h1 {
+	color: #2d3c49;
+}
+
+h5 {
+	color: #2d3c49;	
+}
